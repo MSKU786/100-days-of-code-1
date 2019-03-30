@@ -6,7 +6,7 @@
 **Today's Progress**: Solved a question in codechef.
 
 
-**Link to work:** [flatland](https://www.codechef.com/problems/ICL1902)
+**Link to work:** [flatland](https://www.codechef.com/problems/ICL1902): [solution](https://github.com/MSKU786/Codechef-Solutions/blob/master/first.py)
 
 
 
