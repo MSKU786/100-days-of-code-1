@@ -17,7 +17,7 @@
 **Link to work:** [Goki and his breakup](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/tds-and-his-breakup/): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Goki_%26_his_breakup.cpp)
 
 
-### Day 2: 1 April, 2019
+### Day 3: 1 April, 2019
 
 **Today's Progress**: Solved a question in Competetive programming.
 
