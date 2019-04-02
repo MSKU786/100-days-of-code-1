@@ -12,3 +12,7 @@ Solved a question in codechef
 ### R1D2
 Solved a question in codechef
 Learning Kotlin also
+
+### R1D3
+Solved a question in codechef
+Learning Kotlin also
