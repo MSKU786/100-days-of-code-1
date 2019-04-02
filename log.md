@@ -26,6 +26,6 @@
 **Today's Progress**: Solved a question in CodeChef.
 
 
-**Link to work:** [Chef and Sequence](https://www.codechef.com/problems/CHFAR): [solution]()
+**Link to work:** [Chef and Sequence](https://www.codechef.com/problems/CHFAR): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/chef%26sequence.cpp)
 
 
