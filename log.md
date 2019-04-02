@@ -21,5 +21,11 @@
 
 **Today's Progress**: Solved a question in Competetive programming.
 
+### Day 3: 2 April, 2019
+
+**Today's Progress**: Solved a question in CodeChef.
+
+
+**Link to work:** [Chef and Sequence](https://www.codechef.com/problems/CHFAR): [solution]()
 
 
