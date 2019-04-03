@@ -29,3 +29,11 @@
 **Link to work:** [Chef and Sequence](https://www.codechef.com/problems/CHFAR): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/chef%26sequence.cpp)
 
 
+### Day 4: 3 April, 2019
+
+**Today's Progress**: Solved a question in CodeChef.
+
+
+**Link to work:** [football_match](https://www.codechef.com/problems/FBMT): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/football_match.cpp)
+
+
