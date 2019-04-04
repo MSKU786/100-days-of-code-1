@@ -9,14 +9,18 @@ Solved a question in codechef
 ### R1D2
 Solved a question in codechef
 
-### R1D2
-Solved a question in codechef
-Learning Kotlin also
-
 ### R1D3
 Solved a question in codechef
 Learning Kotlin also
 
-### R1D3
+### R1D4
+Solved a question in codechef
+Learning Kotlin also
+
+### R1D5
+Solved a question in codechef
+Learning Kotlin also
+
+### R1D6
 Solved a question in codechef
 Learning Kotlin also
