@@ -37,3 +37,15 @@
 **Link to work:** [football_match](https://www.codechef.com/problems/FBMT): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/football_match.cpp)
 
 
+### Day 4: 4 April, 2019
+
+**Today's Progress**: Solved a question in CodeChef.
+
+
+**Link to work:** [IPL & RCB](### Day 4: 3 April, 2019
+
+**Today's Progress**: Solved a question in CodeChef.
+
+
+**Link to work:** [football_match](https://www.codechef.com/problems/FBMT): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/IPL%26RCB.cpp)
+
