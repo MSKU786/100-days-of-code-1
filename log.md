@@ -21,7 +21,7 @@
 
 **Today's Progress**: Solved a question in Competetive programming.
 
-### Day 3: 2 April, 2019
+### Day 4: 2 April, 2019
 
 **Today's Progress**: Solved a question in CodeChef.
 
@@ -29,7 +29,7 @@
 **Link to work:** [Chef and Sequence](https://www.codechef.com/problems/CHFAR): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/chef%26sequence.cpp)
 
 
-### Day 4: 3 April, 2019
+### Day 5: 3 April, 2019
 
 **Today's Progress**: Solved a question in CodeChef.
 
@@ -37,15 +37,18 @@
 **Link to work:** [football_match](https://www.codechef.com/problems/FBMT): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/football_match.cpp)
 
 
-### Day 4: 4 April, 2019
-
-**Today's Progress**: Solved a question in CodeChef.
-
-
-**Link to work:** [IPL & RCB](### Day 4: 3 April, 2019
+### Day 6: 4 April, 2019
 
 **Today's Progress**: Solved a question in CodeChef.
 
 
 **Link to work:** [football_match](https://www.codechef.com/problems/FBMT): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/IPL%26RCB.cpp)
 
+
+
+### Day 6: 5 April, 2019
+
+**Today's Progress**: Solved a question in CodeChef.
+
+
+**Link to work:** [Starter](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/easy-multiples/): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/starter.cpp)
