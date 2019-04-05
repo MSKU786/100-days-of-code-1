@@ -24,3 +24,7 @@ Learning Kotlin also
 ### R1D6
 Solved a question in codechef
 Learning Kotlin also
+
+### R1D7
+Solved a question in codechef
+Learning Kotlin also
