@@ -28,3 +28,6 @@ Learning Kotlin also
 ### R1D7
 Solved a question in codechef
 Learning Kotlin also
+
+### R1D8
+Solved a question in codejam
