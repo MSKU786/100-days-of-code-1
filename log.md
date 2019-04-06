@@ -52,3 +52,7 @@
 
 
 **Link to work:** [Starter](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/easy-multiples/): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/starter.cpp)
+
+### Day 3: 6 April, 2019
+
+**Today's Progress**: Solved a question in Competetive programming.
