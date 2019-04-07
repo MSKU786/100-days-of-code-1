@@ -61,4 +61,6 @@
 
 **Today's Progress**: Solved a question in hacker earth.
 
-**Link to work:** [Starter](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/duration/): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/accout.cpp)
+**Link to work:** [Account](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/duration/): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/accout.cpp)
+
+**Link to work:** [Brick Game](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/bricks-game-5140869d/): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Motu%26Ptlu.cpp)
