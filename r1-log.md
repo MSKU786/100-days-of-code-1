@@ -31,3 +31,6 @@ Learning Kotlin also
 
 ### R1D8
 Solved a question in codejam
+
+### R1D9
+Solved questioin in hacker earth
