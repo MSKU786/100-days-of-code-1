@@ -64,3 +64,11 @@
 **Link to work:** [Account](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/duration/): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/accout.cpp)
 
 **Link to work:** [Brick Game](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/bricks-game-5140869d/): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Motu%26Ptlu.cpp)
+
+
+
+### Day 9: 8 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Valid Stack](https://www.codechef.com/problems/VALIDSTK): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Validstack.cpp)
