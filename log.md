@@ -72,3 +72,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Valid Stack](https://www.codechef.com/problems/VALIDSTK): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Validstack.cpp)
+
+
+
+### Day 10: 9 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Average number](https://www.codechef.com/problems/AVG): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/AverageNumber.cpp)
