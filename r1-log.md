@@ -38,3 +38,7 @@ Solved questioin in hacker earth
 
 ### R1D10
 Solved questioin in code chef.
+
+
+### R1D11
+Solved questioin in code chef.
