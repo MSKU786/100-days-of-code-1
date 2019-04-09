@@ -67,7 +67,7 @@
 
 
 
-### Day 9: 8 April, 2019
+### Day 10: 8 April, 2019
 
 **Today's Progress**: Solved a question in codechef.
 
@@ -75,7 +75,7 @@
 
 
 
-### Day 10: 9 April, 2019
+### Day 11: 9 April, 2019
 
 **Today's Progress**: Solved a question in codechef.
 
