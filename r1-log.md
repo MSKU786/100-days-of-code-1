@@ -42,3 +42,7 @@ Solved questioin in code chef.
 
 ### R1D11
 Solved questioin in code chef.
+
+
+### R1D12
+Solved questioin in code chef.
