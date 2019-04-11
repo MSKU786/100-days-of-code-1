@@ -95,5 +95,5 @@
 
 **Today's Progress**: Solved a question in codechef.
 
-**Link to work:** [Play_piano](https://www.codechef.com/problems/LOSTMAX): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Lost_Max.py)
+**Link to work:** [Lost_Max](https://www.codechef.com/problems/LOSTMAX): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Lost_Max.py)
 
