@@ -88,3 +88,12 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Play_piano](https://www.codechef.com/problems/PLAYPIAN): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Validstack.cpp)
+
+
+
+### Day 13: 11 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Play_piano](https://www.codechef.com/problems/LOSTMAX): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Lost_Max.py)
+
