@@ -97,3 +97,10 @@
 
 **Link to work:** [Lost_Max](https://www.codechef.com/problems/LOSTMAX): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Lost_Max.py)
 
+
+
+### Day 14: 12 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Mahasena](https://www.codechef.com/problems/AMR15A): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Mahasena.cpp)
