@@ -28,7 +28,6 @@
 
 
 ### Day 5: 3 April, 2019
-
 **Today's Progress**: Solved a question in CodeChef.
 
 **Link to work:** [football_match](https://www.codechef.com/problems/FBMT): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/football_match.cpp)
@@ -104,3 +103,13 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Mahasena](https://www.codechef.com/problems/AMR15A): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Mahasena.cpp)
+
+
+
+## Day 15: 13 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [chef and smackdown](https://www.codechef.com/submit/SNCKYEAR) [https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef%20and%20smackdown.%20Py,] 
+
+
