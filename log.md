@@ -110,6 +110,15 @@
 
 **Today's Progress**: Solved a question in codechef.
 
-**Link to work:** [chef and smackdown](https://www.codechef.com/submit/SNCKYEAR) [https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef%20and%20smackdown.%20Py,] 
+**Link to work:** [chef and smackdown](https://www.codechef.com/submit/SNCKYEAR) [solution] (https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef%20and%20smackdown.%20Py,) 
+
+
+
+## Day 16: 14 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Add two numbers ](https://www.codechef.com/problems/FLOW001) [solution] (https://github.com/MSKU786/Competetive-Solutions/blob/master/Add.cpp) 
+
 
 
