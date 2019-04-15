@@ -50,3 +50,15 @@ Solved questioin in code chef.
 
 ### R1D13
 Solved questioin in code chef.
+
+
+### R1D14
+Solved questioin in code chef.
+
+
+### R1D15
+Solved questioin in code chef.
+
+
+### R1D16
+Solved questioin in code chef.
