@@ -110,7 +110,7 @@
 
 **Today's Progress**: Solved a question in codechef.
 
-**Link to work:** [chef and smackdown](https://www.codechef.com/submit/SNCKYEAR) [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef%20and%20smackdown.%20Py,) 
+**Link to work:** [chef and smackdown](https://www.codechef.com/submit/SNCKYEAR): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef%20and%20smackdown.%20Py,) 
 
 
 
@@ -118,7 +118,7 @@
 
 **Today's Progress**: Solved a question in codechef.
 
-**Link to work:** [Add two numbers ](https://www.codechef.com/problems/FLOW001) [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Add.cpp) 
+**Link to work:** [Add two numbers ](https://www.codechef.com/problems/FLOW001): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Add.cpp) 
 
 
 
@@ -126,7 +126,7 @@
 
 **Today's Progress**: Solved a question in hacker earth.
 
-**Link to work:** [Count Divisor ](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/count-divisors/?utm_source=header&utm_medium=search&utm_campaign=he-search) [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Count_Divisor.cpp) 
+**Link to work:** [Count Divisor ](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/count-divisors/?utm_source=header&utm_medium=search&utm_campaign=he-search): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Count_Divisor.cpp) 
 
 
 
@@ -134,7 +134,7 @@
 
 **Today's Progress**: Solved a question in hacker earth.
 
-**Link to work:** [ques 2 ](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/ques-2/?utm_source=header&utm_medium=search&utm_campaign=he-search) [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/qus2.cpp) 
+**Link to work:** [ques 2 ](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/ques-2/?utm_source=header&utm_medium=search&utm_campaign=he-search): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/qus2.cpp) 
 
 
 
@@ -142,4 +142,4 @@
 
 **Today's Progress**: Solved a question in hacker earth.
 
-**Link to work:** [char sum ](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/char-sum-2d3a6ab5/?utm_source=header&utm_medium=search&utm_campaign=he-search) [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Char_Sum.cpp) 
+**Link to work:** [char sum ](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/char-sum-2d3a6ab5/?utm_source=header&utm_medium=search&utm_campaign=he-search): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Char_Sum.cpp) 
