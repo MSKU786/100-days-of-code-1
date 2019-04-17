@@ -62,3 +62,11 @@ Solved questioin in code chef.
 
 ### R1D16
 Solved questioin in code chef.
+
+
+### R1D17
+Solved questioin in code chef.
+
+
+### R1D18
+Solved questioin in code chef.
