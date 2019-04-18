@@ -70,3 +70,11 @@ Solved questioin in code chef.
 
 ### R1D18
 Solved questioin in code chef.
+
+
+### R1D19
+Solved questioin in code chef.
+
+
+### R1D20
+Solved questioin in code chef.
