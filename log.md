@@ -143,3 +143,11 @@
 **Today's Progress**: Solved a question in hacker earth.
 
 **Link to work:** [char sum ](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/char-sum-2d3a6ab5/?utm_source=header&utm_medium=search&utm_campaign=he-search): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Char_Sum.cpp) 
+
+
+
+## Day 19: 17 April, 2019
+
+**Today's Progress**: Solved a question in hacker earth.
+
+**Link to work:** [e-maze-in ](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/e-maze-in-1aa4e2ac/?utm_source=header&utm_medium=search&utm_campaign=he-search): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/e-maze.cpp) 
