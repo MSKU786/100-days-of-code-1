@@ -160,3 +160,11 @@
 
 **Link to work:** [Smart Strategy](https://www.codechef.com/problems/SMRSTR): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/smart_strategy.cpp) 
 
+
+
+## Day 22: 20 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Smart Strategy](https://www.codechef.com/problems/URCALC): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/program_your_own_calculator.cpp) 
+
