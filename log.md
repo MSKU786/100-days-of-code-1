@@ -168,3 +168,11 @@
 
 **Link to work:** [Smart Strategy](https://www.codechef.com/problems/URCALC): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/program_your_own_calculator.cpp) 
 
+
+
+## Day 23: 21 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [GCD and LCM](https://www.codechef.com/problems/FLOW016): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/GCD_%26_LCM.cpp) 
+
