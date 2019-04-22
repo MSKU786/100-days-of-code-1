@@ -176,3 +176,10 @@
 
 **Link to work:** [GCD and LCM](https://www.codechef.com/problems/FLOW016): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/GCD_%26_LCM.cpp) 
 
+
+
+## Day 24: 22 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [GCD and LCM](https://www.codechef.com/problems/ISITCAKE): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/is_it_a_cakeway_problem.cpp) 
