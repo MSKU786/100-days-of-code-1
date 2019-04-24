@@ -192,3 +192,12 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Find_remainder](https://www.codechef.com/problems/FLOW002): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Find_remainder) 
+
+
+
+
+## Day 26: 24 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Sum or difference](https://www.codechef.com/problems/DIFFSUM): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Difference%20and%20sum.cpp) 
