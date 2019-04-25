@@ -201,3 +201,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Sum or difference](https://www.codechef.com/problems/DIFFSUM): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Difference%20and%20sum.cpp) 
+
+
+
+## Day 27: 25 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Reverse the number](https://www.codechef.com/problems/FLOW007): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Reverse_the_number.cpp) 
