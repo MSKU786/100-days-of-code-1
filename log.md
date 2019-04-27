@@ -217,3 +217,12 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [first_&_last_digit](https://www.codechef.com/problems/FLOW004): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/first_and_last_digit.py) 
+
+
+
+
+## Day 29: 27 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Number mirror](https://www.codechef.com/problems/START01): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Number_mirror.cpp) 
