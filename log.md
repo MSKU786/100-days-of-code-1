@@ -226,3 +226,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Number mirror](https://www.codechef.com/problems/START01): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Number_mirror.cpp) 
+
+
+
+## Day 30: 28 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [find_square_root](https://www.codechef.com/problems/FSQRT): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Find_Square_root.cpp) 
