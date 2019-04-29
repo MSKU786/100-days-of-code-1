@@ -234,3 +234,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [find_square_root](https://www.codechef.com/problems/FSQRT): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Find_Square_root.cpp) 
+
+
+
+## Day 31: 29 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Chef_and_cook-off](https://www.codechef.com/problems/CCOOK): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef%26Cook-off.cpp) 
