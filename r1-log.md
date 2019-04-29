@@ -78,3 +78,47 @@ Solved questioin in code chef.
 
 ### R1D20
 Solved questioin in code chef.
+
+
+### R1D21
+Solved questioin in code chef.
+
+
+### R1D22
+Solved questioin in code chef.
+
+
+### R1D23
+Solved questioin in code chef.
+
+
+### R1D24
+Solved questioin in code chef.
+
+
+### R1D25
+Solved questioin in code chef.
+
+
+### R1D26
+Solved questioin in code chef.
+
+
+### R1D27
+Solved questioin in code chef.
+
+
+### R1D28
+Solved questioin in code chef.
+
+
+### R1D29
+Solved questioin in code chef.
+
+
+### R1D30
+Solved questioin in code chef.
+
+
+### R1D31
+Solved questioin in code chef.
