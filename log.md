@@ -242,3 +242,13 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Chef_and_cook-off](https://www.codechef.com/problems/CCOOK): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef%26Cook-off.cpp) 
+
+
+
+
+## Day 32: 30 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Two_numbers](https://www.codechef.com/problems/TWONMS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Two_numbers.cpp) 
+
