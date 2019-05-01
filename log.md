@@ -252,3 +252,10 @@
 
 **Link to work:** [Two_numbers](https://www.codechef.com/problems/TWONMS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Two_numbers.cpp) 
 
+
+
+## Day 33: 31 April, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Lazy_jem](https://www.codechef.com/problems/TALAZY): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Lazy_jem.cpp) 
