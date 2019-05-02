@@ -254,8 +254,17 @@
 
 
 
-## Day 33: 31 April, 2019
+## Day 33: 1 May, 2019
 
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Lazy_jem](https://www.codechef.com/problems/TALAZY): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Lazy_jem.cpp) 
+
+
+
+
+## Day 34: 2 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Qualifying_to_pre_elimination](https://www.codechef.com/problems/QUALPREL): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Qualifying_to_preelimination.cpp) 
