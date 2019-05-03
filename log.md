@@ -268,3 +268,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Qualifying_to_pre_elimination](https://www.codechef.com/problems/QUALPREL): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Qualifying_to_preelimination.cpp) 
+
+
+
+## Day 35: 3 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [The_smallest_pair](https://www.codechef.com/problems/SMPAIR): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/The_smallest_pair.cpp) 
