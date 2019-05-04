@@ -276,3 +276,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [The_smallest_pair](https://www.codechef.com/problems/SMPAIR): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/The_smallest_pair.cpp) 
+
+
+
+## Day 36: 4 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [ATM](https://www.codechef.com/problems/HS08TEST): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/ATM.cpp) 
