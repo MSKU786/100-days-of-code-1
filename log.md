@@ -284,3 +284,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [ATM](https://www.codechef.com/problems/HS08TEST): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/ATM.cpp) 
+
+
+
+## Day 37: 5 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Chef_&_his_secret_ingredient](https://www.codechef.com/problems/PCJ18A): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef_%26_his%20_secret_ingredients.cpp) 
