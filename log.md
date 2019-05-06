@@ -292,3 +292,12 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Chef_&_his_secret_ingredient](https://www.codechef.com/problems/PCJ18A): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef_%26_his%20_secret_ingredients.cpp) 
+
+
+
+## Day 38: 6 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Is it vowel or consonantt](https://www.codechef.com/problems/VOWELTB): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/vowel_or_consonant.cpp) 
+
