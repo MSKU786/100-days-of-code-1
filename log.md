@@ -301,3 +301,11 @@
 
 **Link to work:** [Is it vowel or consonantt](https://www.codechef.com/problems/VOWELTB): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/vowel_or_consonant.cpp) 
 
+
+
+## Day 38: 6 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Lucky_Four](https://www.codechef.com/problems/LUCKFOUR): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Lucky_four.cpp) 
+
