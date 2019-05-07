@@ -303,7 +303,7 @@
 
 
 
-## Day 38: 6 May, 2019
+## Day 38: 7 May, 2019
 
 **Today's Progress**: Solved a question in codechef.
 
