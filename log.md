@@ -309,3 +309,10 @@
 
 **Link to work:** [Lucky_Four](https://www.codechef.com/problems/LUCKFOUR): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Lucky_four.cpp) 
 
+
+
+## Day 39: 8 May, 2019
+
+**Today's Progress**: Partially Solved a question in competetive programming.
+
+
