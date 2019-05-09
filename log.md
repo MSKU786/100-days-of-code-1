@@ -316,3 +316,9 @@
 **Today's Progress**: Partially Solved a question in competetive programming.
 
 
+
+## Day 40: 9 May, 2019
+
+**Today's Progress**: Partially Solved a question in competetive programming and a question.
+
+**Link to work:** [ATM](https://www.codechef.com/problems/ATM2): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/ATM_machine.cpp) 
