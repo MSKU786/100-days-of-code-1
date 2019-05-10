@@ -322,3 +322,11 @@
 **Today's Progress**: Partially Solved a question in competetive programming and a question.
 
 **Link to work:** [ATM](https://www.codechef.com/problems/ATM2): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/ATM_machine.cpp) 
+
+
+
+## Day 41: 10 May, 2019
+
+**Today's Progress**: Partially Solved a question in competetive programming and a question.
+
+**Link to work:** [Xenny_and_alternating_tasks](https://www.codechef.com/problems/XENTASK): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Xenny_%26_Alternating_tasks.cpp) 
