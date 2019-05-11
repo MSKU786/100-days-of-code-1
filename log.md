@@ -330,3 +330,12 @@
 **Today's Progress**: Partially Solved a question in competetive programming and a question.
 
 **Link to work:** [Xenny_and_alternating_tasks](https://www.codechef.com/problems/XENTASK): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Xenny_%26_Alternating_tasks.cpp) 
+
+
+
+
+## Day 42: 11 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Coupouns](https://www.codechef.com/problems/COUPSYS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Coupoun.cpp) 
