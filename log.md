@@ -339,3 +339,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Coupouns](https://www.codechef.com/problems/COUPSYS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Coupoun.cpp) 
+
+
+
+## Day 43: 12 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Coder_Life_Matters](https://www.codechef.com/problems/CODERLIF): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Coder_life_Matters.cpp) 
