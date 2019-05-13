@@ -122,3 +122,34 @@ Solved questioin in code chef.
 
 ### R1D31
 Solved questioin in code chef.
+
+
+### R1D32
+Solved a question in codechef
+
+### R1D33
+Solved a question in codechef
+Learning Kotlin also
+
+### R1D34
+Solved a question in codechef
+Learning Kotlin also
+
+### R1D35
+Solved a question in codechef
+Learning Kotlin also
+
+### R1D36
+Solved a question in codechef
+Learning Kotlin also
+
+### R1D37
+Solved a question in competetive programming
+Learning Kotlin also
+
+### R1D8
+Solved a question in competetive programmming
+
+### R1D9
+Solved questioin in codechef
+
