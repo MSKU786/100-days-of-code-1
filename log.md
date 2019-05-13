@@ -347,3 +347,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Coder_Life_Matters](https://www.codechef.com/problems/CODERLIF): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Coder_life_Matters.cpp) 
+
+
+
+## Day 44: 13 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Bear_&_ladder](https://www.codechef.com/problems/BRLADDER): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Bear_%26_ladder.py) 
