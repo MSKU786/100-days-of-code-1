@@ -355,3 +355,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Bear_&_ladder](https://www.codechef.com/problems/BRLADDER): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Bear_%26_ladder.py) 
+
+
+
+## Day 45: 14 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Tanu_&_head_bob](https://www.codechef.com/problems/HEADBOB): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Tanu_%26_head_bob.cpp) 
