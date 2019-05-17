@@ -371,3 +371,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Chef_&_fruitz](https://www.codechef.com/problems/FRUITS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef_%26_fruits.cpp) 
+
+
+
+## Day 47: 16 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Jumping_in_the_hills](https://www.codechef.com/problems/HILLS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Jumping_in_the_hills.cpp) 
