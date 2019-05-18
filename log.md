@@ -379,3 +379,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Jumping_in_the_hills](https://www.codechef.com/problems/HILLS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Jumping_in_the_hills.cpp) 
+
+
+
+## Day 48: 17 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Snake Procession](https://www.codechef.com/problems/SNAKPROC): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Snake_Procession.cpp) 
