@@ -387,3 +387,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Snake Procession](https://www.codechef.com/problems/SNAKPROC): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Snake_Procession.cpp) 
+
+
+
+## Day 49: 18 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Archhi_&_the_comparision](https://www.codechef.com/problems/NUMCOMP): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Archi_%26_comparision.cpp) 
