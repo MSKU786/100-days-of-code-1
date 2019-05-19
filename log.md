@@ -395,3 +395,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Archhi_&_the_comparision](https://www.codechef.com/problems/NUMCOMP): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Archi_%26_comparision.cpp) 
+
+
+
+## Day 50: 19 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Bear_&_the_segment_zero](https://www.codechef.com/problems/SEGM01): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Bear_%26_Segment_Zero.cpp) 
