@@ -403,3 +403,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Bear_&_the_segment_zero](https://www.codechef.com/problems/SEGM01): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Bear_%26_Segment_Zero.cpp) 
+
+
+
+## Day 51: 20 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Sebi_and_the_highway](https://www.codechef.com/problems/SEBIHWY): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Sebi_%26_the_highway.cpp) 
