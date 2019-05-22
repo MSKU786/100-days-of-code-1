@@ -419,3 +419,12 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Ada_&_the_staircase](https://www.codechef.com/problems/ADASTAIR): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Ada_%26_the_staircase.cpp) 
+
+
+
+
+## Day 53: 22 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Judging_Delay](https://www.codechef.com/problems/JDELAY): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Judging_Delay.cpp) 
