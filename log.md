@@ -428,3 +428,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Judging_Delay](https://www.codechef.com/problems/JDELAY): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Judging_Delay.cpp) 
+
+
+
+## Day 54: 23 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [j-Reached_Safety_or_Not](https://www.codechef.com/problems/ZUBREACH): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/J_-_Reached_safety_or_not.cpp) 
