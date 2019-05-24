@@ -436,3 +436,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [j-Reached_Safety_or_Not](https://www.codechef.com/problems/ZUBREACH): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/J_-_Reached_safety_or_not.cpp) 
+
+
+
+## Day 55: 24 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [j-Reached_Safety_or_Not](https://www.codechef.com/problems/CHEFRUN): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef_%26_his%20_secret_ingredients.cpp) 
