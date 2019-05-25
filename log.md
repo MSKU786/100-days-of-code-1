@@ -451,4 +451,4 @@
 
 **Today's Progress**: Solved a question in codechef.
 
-**Link to work:** [j-Reached_Safety_or_Not](https://www.codechef.com/problems/COOMILK): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Bear_%26_milky_cookies.cpp) 
+**Link to work:** [Bear &_his _milky_cookies](https://www.codechef.com/problems/COOMILK): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Bear_%26_milky_cookies.cpp) 
