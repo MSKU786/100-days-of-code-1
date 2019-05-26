@@ -452,3 +452,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Bear &_his _milky_cookies](https://www.codechef.com/problems/COOMILK): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Bear_%26_milky_cookies.cpp) 
+
+
+
+## Day 57: 26 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [CV](https://www.codechef.com/problems/CV): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/CV.cpp) 
