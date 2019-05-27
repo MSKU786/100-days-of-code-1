@@ -460,3 +460,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [CV](https://www.codechef.com/problems/CV): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/CV.cpp) 
+
+
+
+## Day 58: 27 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [A Big Sale]https://www.codechef.com/problems/BIGSALE): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/A_Big_Sale.cpp) 
