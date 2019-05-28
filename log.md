@@ -468,3 +468,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [A Big Sale](https://www.codechef.com/problems/BIGSALE): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/A_Big_Sale.cpp) 
+
+
+
+## Day 59: 28 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Deadly_sin](https://www.codechef.com/problems/SINS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Deadly_sin.py) 
