@@ -484,3 +484,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Prime_Generaor](https://www.codechef.com/problems/PRIME1): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Prime_Generator.cpp) 
+
+
+
+## Day 61: 30 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Chef_&_kingship](https://www.codechef.com/problems/KINGSHIP): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef_and_kingShip.cpp) 
