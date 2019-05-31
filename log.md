@@ -492,3 +492,13 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Chef_&_kingship](https://www.codechef.com/problems/KINGSHIP): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef_and_kingShip.cpp) 
+
+
+
+
+## Day 62: 31 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Coin_flip](https://www.codechef.com/problems/CONFLIP): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Coin_Flip.cpp) 
+
