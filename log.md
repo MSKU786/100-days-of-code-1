@@ -502,3 +502,10 @@
 
 **Link to work:** [Coin_flip](https://www.codechef.com/problems/CONFLIP): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Coin_Flip.cpp) 
 
+
+
+## Day 63: 32 May, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Carvans](https://www.codechef.com/problems/CARVANS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Carvans.cpp)
