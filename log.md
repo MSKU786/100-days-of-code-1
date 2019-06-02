@@ -504,8 +504,16 @@
 
 
 
-## Day 63: 32 May, 2019
+## Day 63: 1 June, 2019
 
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Carvans](https://www.codechef.com/problems/CARVANS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Carvans.cpp)
+
+
+
+## Day 64: 2 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Counting_pretty_numbers](https://www.codechef.com/problems/NUM239): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/counting_pretty_numbers.cpp)
