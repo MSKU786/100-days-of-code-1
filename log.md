@@ -517,3 +517,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Counting_pretty_numbers](https://www.codechef.com/problems/NUM239): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/counting_pretty_numbers.cpp)
+
+
+
+## Day 65: 3 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Uncle johnny](https://www.codechef.com/problems/JOHNY): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Uncle_johny.cpp)
