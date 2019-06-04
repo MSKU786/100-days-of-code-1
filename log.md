@@ -525,3 +525,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Uncle johnny](https://www.codechef.com/problems/JOHNY): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Uncle_johny.cpp)
+
+
+
+## Day 66: 4 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Chef_&_Notebook](https://www.codechef.com/problems/CNOTE): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef_%26_notebook.cpp)
