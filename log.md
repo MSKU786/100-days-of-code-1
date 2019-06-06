@@ -541,3 +541,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Chef_&_Notebook](https://www.codechef.com/problems/NAME2): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Your_Name_is_mine.cpp)
+
+
+
+## Day 68: 6 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Chef_&_His_daily_routine](https://www.codechef.com/problems/CHEFROUT): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef_%26_his_daily_routine.cpp)
