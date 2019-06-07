@@ -552,7 +552,7 @@
 
 
 
-## Day 68: 6 June, 2019
+## Day 68: 7 June, 2019
 
 **Today's Progress**: Solved a question in codechef.
 
