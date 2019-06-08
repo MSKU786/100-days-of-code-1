@@ -558,3 +558,10 @@
 
 **Link to work:** [Racing_Horses](https://www.codechef.com/problems/HORSES): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Racing_Horses.cpp)
 
+
+
+## Day 69: 8 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Approximately](https://www.codechef.com/problems/APPROX): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Approximately.py)
