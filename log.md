@@ -565,3 +565,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Approximately](https://www.codechef.com/problems/APPROX): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Approximately.py)
+
+
+
+## Day 70: 9 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Please_Like_ME](https://www.codechef.com/problems/PLZLYKME): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Plz_like_Me.cpp)
