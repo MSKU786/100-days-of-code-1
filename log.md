@@ -573,3 +573,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Please_Like_ME](https://www.codechef.com/problems/PLZLYKME): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Plz_like_Me.cpp)
+
+
+
+## Day 71: 10 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [The_Right_Triangle](https://www.codechef.com/problems/RIGHTRI): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/The_Right_Triangle.cpp)
