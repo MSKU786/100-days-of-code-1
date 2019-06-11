@@ -581,3 +581,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [The_Right_Triangle](https://www.codechef.com/problems/RIGHTRI): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/The_Right_Triangle.cpp)
+
+
+
+## Day 72: 11 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Magical Elements](https://www.codechef.com/problems/ZOZ): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Magical_Elements.cpp)
