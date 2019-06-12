@@ -589,3 +589,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Magical Elements](https://www.codechef.com/problems/ZOZ): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Magical_Elements.cpp)
+
+
+
+## Day 73: 12 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Temple Land](https://www.codechef.com/problems/TEMPLELA): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Temple_Land.cpp)
