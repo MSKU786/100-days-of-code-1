@@ -597,3 +597,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Temple Land](https://www.codechef.com/problems/TEMPLELA): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Temple_Land.cpp)
+
+
+
+## Day 74: 13 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Making a Meald](https://www.codechef.com/problems/CFMM): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Making_a_meal.cpp)
