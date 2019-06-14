@@ -605,3 +605,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Making a Meald](https://www.codechef.com/problems/CFMM): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Making_a_meal.cpp)
+
+
+
+## Day 75: 14 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Malvika_is_peciluar_about_ballons](https://www.codechef.com/problems/CHN09): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Malvika_is_peciluar_about_%20ballons.cpp)
