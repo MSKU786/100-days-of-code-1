@@ -621,3 +621,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Malvika_is_peciluar_about_ballons](https://www.codechef.com/problems/GDOG): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Greedy_puppy.cpp)
+
+
+
+## Day 77: 16 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Walk](https://www.codechef.com/problems/WALK): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Walk.cpp)
