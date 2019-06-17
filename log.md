@@ -637,3 +637,12 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Dividing_Stamp](https://www.codechef.com/problems/DIVIDING): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Dividing_Stamps.cpp)
+
+
+
+
+## Day 78: 17 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [HOW_MANY_DIGITS_I_HAVE](https://www.codechef.com/problems/HOWMANY): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/How_Many_Digits_I_Have.cpp)
