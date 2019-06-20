@@ -656,3 +656,8 @@
 
 
 
+## Day 81: 20 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Farmer Feb](https://www.codechef.com/problems/POTATOES): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Farmer_Feb.cpp)
