@@ -661,3 +661,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Farmer Feb](https://www.codechef.com/problems/POTATOES): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Farmer_Feb.cpp)
+
+
+
+## Day 82: 21 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Little_Elephants_And_Bombs](https://www.codechef.com/problems/LEBOMBS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Little_Elephant_%26_bombs.cpp)
