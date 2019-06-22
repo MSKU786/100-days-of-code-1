@@ -669,3 +669,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Little_Elephants_And_Bombs](https://www.codechef.com/problems/LEBOMBS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Little_Elephant_%26_bombs.cpp)
+
+
+
+## Day 82: 22 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Broken_Telephone](https://www.codechef.com/problems/BROKPHON): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Broken_Telephone.cpp)
