@@ -677,3 +677,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Broken_Telephone](https://www.codechef.com/problems/BROKPHON): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Broken_Telephone.cpp)
+
+
+
+## Day 83: 23 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Suraj_goes_shopping](https://www.codechef.com/problems/ANUBTG): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Suraj_Goes_Shopping.cpp)
