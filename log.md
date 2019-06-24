@@ -685,3 +685,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Suraj_goes_shopping](https://www.codechef.com/problems/ANUBTG): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Suraj_Goes_Shopping.cpp)
+
+
+
+## Day 84: 24 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Little_Chef_&_Numbers](https://www.codechef.com/problems/PROSUM): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Little_chef_%26_numbers.cpp)
