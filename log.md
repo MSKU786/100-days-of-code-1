@@ -693,3 +693,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Little_Chef_&_Numbers](https://www.codechef.com/problems/PROSUM): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Little_chef_%26_numbers.cpp)
+
+
+
+## Day 85: 25 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Copy_&_Paste](https://www.codechef.com/problems/RRCOPY): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Copy-Paste.py)
