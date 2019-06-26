@@ -701,3 +701,11 @@
 **Today's Progress**: Solved a question in codechef.
 
 **Link to work:** [Copy_&_Paste](https://www.codechef.com/problems/RRCOPY): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Copy-Paste.py)
+
+
+
+## Day 86: 26 June, 2019
+
+**Today's Progress**: Solved a question in codechef.
+
+**Link to work:** [Chef_&_Subarray](https://www.codechef.com/problems/CHEFZOT): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef_%26_Subarray.cpp)
