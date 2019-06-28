@@ -717,3 +717,11 @@
 **Today's Progress**: Solve a question in codechef.
 
 **Link to work:** [Compilers_and_Parser](https://www.codechef.com/problems/COMPILER): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Compiler_%26_Parser.cpp)
+
+
+
+## Day 88: 28 June, 2019
+
+**Today's Progress**: Solve a question in codechef.
+
+**Link to work:** [Walk_On_The_Axis](https://www.codechef.com/problems/ANUWTA): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Walk_on_the_axis.cpp)
