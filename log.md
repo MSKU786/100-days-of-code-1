@@ -725,3 +725,11 @@
 **Today's Progress**: Solve a question in codechef.
 
 **Link to work:** [Walk_On_The_Axis](https://www.codechef.com/problems/ANUWTA): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Walk_on_the_axis.cpp)
+
+
+
+## Day 89: 29 June, 2019
+
+**Today's Progress**: Solve a question in codechef.
+
+**Link to work:** [Dividing_Stamps](https://www.codechef.com/problems/DIVIDING): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Dividing_Stamps.cpp)
