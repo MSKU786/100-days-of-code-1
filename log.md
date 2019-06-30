@@ -733,3 +733,11 @@
 **Today's Progress**: Solve a question in codechef.
 
 **Link to work:** [Dividing_Stamps](https://www.codechef.com/problems/DIVIDING): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Dividing_Stamps.cpp)
+
+
+
+## Day 90: 30 June, 2019
+
+**Today's Progress**: Solve a question in codechef.
+
+**Link to work:** [Chef_&_Easy_Question](https://www.codechef.com/problems/CHEFA): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef_%26_Easy_problem.cpp)
