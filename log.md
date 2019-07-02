@@ -760,7 +760,7 @@
 
 
 
-## Day 92: 1 July, 2019
+## Day 92: 2 July, 2019
 
 **Today's Progress**: Solve a question in codechef.
 
