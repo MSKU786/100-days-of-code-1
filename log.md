@@ -749,3 +749,11 @@
 **Today's Progress**: Solve a question in codechef.
 
 **Link to work:** [Multiple_Choice_Exam](https://www.codechef.com/problems/EXAM1): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Multiple_Choice_Exam.cpp)
+
+
+
+## Day 92: 1 July, 2019
+
+**Today's Progress**: Solve a question in codechef.
+
+**Link to work:** [Multiple_Choice_Exam](https://www.codechef.com/problems/MAXDIFF): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Maximum_weight_difference.cppp)
