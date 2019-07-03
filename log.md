@@ -765,3 +765,11 @@
 **Today's Progress**: Solve a question in codechef.
 
 **Link to work:** [Chef_&_Feedback](https://www.codechef.com/problems/ERROR): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef_%26_feedback.cpp)
+
+
+
+## Day 93: 3 July, 2019
+
+**Today's Progress**: Solve a question in codechef.
+
+**Link to work:** [Attic_Crossing](https://www.codechef.com/problems/ATTIC): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Attic_crossing.cpp)
