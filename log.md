@@ -773,3 +773,11 @@
 **Today's Progress**: Solve a question in codechef.
 
 **Link to work:** [Attic_Crossing](https://www.codechef.com/problems/ATTIC): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Attic_crossing.cpp)
+
+
+
+## Day 94: 4 July, 2019
+
+**Today's Progress**: Solve a question in codechef.
+
+**Link to work:** [Chef_Jumping](https://www.codechef.com/problems/OJUMPS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef_Jumping.cpp)
