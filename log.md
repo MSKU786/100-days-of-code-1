@@ -781,3 +781,11 @@
 **Today's Progress**: Solve a question in codechef.
 
 **Link to work:** [Chef_Jumping](https://www.codechef.com/problems/OJUMPS): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Chef_Jumping.cpp)
+
+
+
+## Day 95: 5 July, 2019
+
+**Today's Progress**: Solve a question in codechef.
+
+**Link to work:** [Fit_to_Play](https://www.codechef.com/problems/PLAYFIT): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Fit_to_play.cpp)
