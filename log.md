@@ -789,3 +789,11 @@
 **Today's Progress**: Solve a question in codechef.
 
 **Link to work:** [Fit_to_Play](https://www.codechef.com/problems/PLAYFIT): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Fit_to_play.cpp)
+
+
+
+## Day 96: 6 July, 2019
+
+**Today's Progress**: Solve a question in codechef.
+
+**Link to work:** [Area_or_perimeter](https://www.codechef.com/problems/AREAPERI): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Area_or_perimeter.cpp)
