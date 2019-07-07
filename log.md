@@ -797,3 +797,11 @@
 **Today's Progress**: Solve a question in codechef.
 
 **Link to work:** [Area_or_perimeter](https://www.codechef.com/problems/AREAPERI): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Area_or_perimeter.cpp)
+
+
+
+## Day 97: 7 July, 2019
+
+**Today's Progress**: Solve a question in codechef.
+
+**Link to work:** [The_Great_Run](https://www.codechef.com/problems/PROC18A): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/The_Great_Run.cpp)
