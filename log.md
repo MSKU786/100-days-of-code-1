@@ -805,3 +805,11 @@
 **Today's Progress**: Solve a question in codechef.
 
 **Link to work:** [The_Great_Run](https://www.codechef.com/problems/PROC18A): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/The_Great_Run.cpp)
+
+
+
+## Day 98: 8 July, 2019
+
+**Today's Progress**: Solve a question in codechef.
+
+**Link to work:** [Longest_Common_pattern](https://www.codechef.com/problems/LCPESY): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Longest_Common_Pattern.cpp)
