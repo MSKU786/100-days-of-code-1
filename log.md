@@ -813,3 +813,11 @@
 **Today's Progress**: Solve a question in codechef.
 
 **Link to work:** [Longest_Common_pattern](https://www.codechef.com/problems/LCPESY): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Longest_Common_Pattern.cpp)
+
+
+
+## Day 99: 9 July, 2019
+
+**Today's Progress**: Solve a question in codechef.
+
+**Link to work:** [Little_Elephant_&_Divisor](https://www.codechef.com/submit/LEDIV): [solution](https://github.com/MSKU786/Competetive-Solutions/blob/master/Little_Elephat_%26_Divisor.cpp)
