@@ -824,7 +824,7 @@
 
 
 
-## Day 99: 9 July, 2019
+## Day 100: 10 July, 2019
 
 **Today's Progress**: Solve a question in codechef.
 
